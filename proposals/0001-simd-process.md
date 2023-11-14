@@ -33,6 +33,7 @@ constitutes a "substantial" change is evolving based on community norms and
 varies depending on what part of the ecosystem you are proposing to change, but
 may include the following:
 
+- Changes affecting consensus
 - A change in format of a RPC API method
 - Networking interface changes between validators
 - Compute requirement changes on the runtime
